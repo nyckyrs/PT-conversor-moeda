@@ -12,4 +12,11 @@ Um aplicativo em Java que converte entre várias moedas. Este conversor usa uma 
 Conversão entre várias moedas, incluindo Reais, Dólares, Euros, Libras, Peso Argentino e Peso Chileno.
 Validação de entrada para garantir que um número válido seja inserido antes da conversão.
 
+📋 Dependências
+JavaFX: para a interface gráfica.
+API de cotação de moedas (não especificada): para obter cotações em tempo real
+
+🚀Créditos
+Desenvolvido por Monique Sales.
+
 
